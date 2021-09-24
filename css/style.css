@@ -1,0 +1,44 @@
+li {
+   list-style: none;
+}
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+.red-text {
+   color: red;
+}
+.orange-text {
+   color: orange;
+}
+.yellow-text {
+   color: yellow;
+}
+.green-text {
+   color: green;
+}
+.lihtblue-text {
+   color: lightblue;
+}
+.blue-text {
+   color: blue;
+}
+.violet-text {
+   color: violet;
+}
+div {
+   color: blue;
+}
+.content_1 {
+   color: red;
+}
+.content_2 {
+   color: violet;
+}
+.content_3 {
+   color: green;
+}
+.content_4 {
+   color: yellow; background-color: gray;
+}
